@@ -15,7 +15,7 @@ Indice **publico** de referencia de las skills de OpenCode de [gilmanpro](https:
 | computer-use-py | Controlar el escritorio multi-OS (Windows/Linux/macOS) con dispatch por proceso | [gilmanpro/computer-use-py](https://github.com/gilmanpro/computer-use-py) |
 | graphic-media | Dibujos, graficos y visualizaciones con Python: diagramas, SVG, arte, video y audio | [gilmanpro/graphic-media](https://github.com/gilmanpro/graphic-media) |
 
-**Indice de las skills privadas**: [skills-privadas](https://github.com/gilmanpro/skills-privadas) (requiere acceso).
+**Indice de las skills privadas**: [skills-privadas](https://github.com/gilmanpro/skills-privadas) (el indice es publico; los 14 repos apuntados son privados y dan 404 sin acceso).
 
 ## Instalacion
 
